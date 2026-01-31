@@ -1,5 +1,5 @@
 # addon-assets
-Icons used in Google Apps Script add-ons developped by Facts Haven SAS
+Icons used in Google Apps Script add-ons developped by Facts Haven SAS.
 
 All these icons have been developped "by hand" and are ⓒ Facts Haven SAS 2026 and beyond.
 
@@ -9,4 +9,4 @@ The source file is a keynote presentation. Once ok, we print it to PDF (scalable
 
 Then we make the neighbourghood of the icon transparent and we crop it to 64 by 64 pixels.
 
-Source files are kept in the icon-sources directory.
+Source files are kept in the icon-sources sub-directory of the icons repository.
