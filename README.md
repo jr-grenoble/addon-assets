@@ -9,4 +9,4 @@ The source file is a keynote presentation. Once ok, we print it to PDF (scalable
 
 Then we make the neighbourghood of the icon transparent and we crop it to 64 by 64 pixels.
 
-Source files are kept in the icon-sources folder.
+Source files are kept in the icon-sources .folder.
