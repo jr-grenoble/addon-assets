@@ -13,10 +13,12 @@ Source files are kept in the icon-sources folder.
 ## Categories
 
 Icons fall in 3 main categories:
-* action icons, used for buttons that trigger actions, such as trashing a file or removing it from the trash; these actions are prefixed with "actionￚ" and when they are not available, they are suffixed with "ￚdisabled" ⇒ <img src="https://jr-grenoble.github.io/addon-assets//icons/actionￚtrashￚin.png" width="24" height="24" style="background:white"> or <img src="https://jr-grenoble.github.io/addon-assets//icons/actionￚtrashￚoutￚdisabled.png" width="24" height="24" style="background:white">
-* state icons, that show whether a particular property is set or not; these states are prefixed with "stateￚ" and when set, they are suffixed with "ꘌon"; when unset, the suffix is "ꘌoff" ⇒ stateￚlockedꘌon.png or stateￚstarredꘌoff.png
-* drive item icons to indicate the nature of selected drive documents; these are prefixed with "iconￚ"; when the selected drive item is a shortcut, the icon bears a shortcut symbol in its lower left corner and it is suffixed with "ￚshortcut" ⇒ iconￚzip.png or iconￚpdfￚshortcut.png
+* action icons, used for buttons that trigger actions, such as trashing a file or removing it from the trash; these actions are prefixed with "actionￚ" and when they are not available, they are suffixed with "ￚdisabled" ⇒ `actionￚtrashￚin.png` <img src="./icons/actionￚtrashￚin.png" width="14" height="14" style="background:white"> or `actionￚtrashￚoutￚdisabled.png` <img src="./icons/actionￚtrashￚoutￚdisabled.png" width="14" height="14" style="background:black">.
+* state icons, that show whether a particular property is set or not; these states are prefixed with "stateￚ" and when set, they are suffixed with "ꘌon"; when unset, the suffix is "ꘌoff" ⇒ `stateￚlockedꘌon.png` <img src="./icons/stateￚlockedꘌon.png" width="14" height="14" style="background:white"> or `stateￚstarredꘌoff.png` <img src="./icons/stateￚstarredꘌoff.png" width="14" height="14" style="background:black"> .
+* drive item icons to indicate the nature of selected drive documents; these are prefixed with "iconￚ"; when the selected drive item is a shortcut, the icon bears a shortcut symbol in its lower left corner and it is suffixed with "ￚshortcut" ⇒ `iconￚsheet.png` <img src="./icons/iconￚsheet.png" width="14" height="14"> or `iconￚpdfￚshortcut.png` <img src="./icons/iconￚpdfￚshortcut.png" width="14" height="14">.
 
 ## Usage
 
-These icons are publicly available with
+These icons are publicly available via the https://jr-grenoble.github.io/addon-assets/icons URL prefix. E.g. https://jr-grenoble.github.io/addon-assets/icons/actionￚsyncￚdisabled.png ⇒ <img src="./icons/actionￚsyncￚdisabled.png" width="14" height="14">.
+
+State icons are always displayed using the BORDERLESS text button style.
