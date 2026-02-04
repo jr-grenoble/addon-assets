@@ -21,6 +21,17 @@ Icons fall in 3 main categories:
 
 These icons are publicly available via the https://jr-grenoble.github.io/addon-assets/icons URL prefix. E.g. https://jr-grenoble.github.io/addon-assets/icons/actionￚsyncￚdisabled.png ⇒ <img src="./icons/actionￚsyncￚdisabled.png" width="14" height="14">.
 
+To make this repo public and able to serve images, I followed these steps:
+1. Go to the github repository (on github.com, not on github.dev)
+2. Click the Settings tab (gear icon).
+3. Scroll all the way down to the "Danger Zone".
+4. Click Change repository visibility.
+5. Select Make public and confirm
+6. On the left sidebar, click Pages.
+7. Under Build and deployment > Source, select Deploy from a branch.
+8. Under Branch, select main (or master) and / (root).
+9. Click Save.
+
 State icons are always displayed using the `BORDERLESS` text button style.
 
 Action icons that open a new card or a new tab or overlay window are displayed using the `FILLED_TONAL` style.
