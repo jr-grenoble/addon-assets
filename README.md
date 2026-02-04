@@ -21,10 +21,10 @@ Icons fall in 3 main categories:
 
 These icons are publicly available via the https://jr-grenoble.github.io/addon-assets/icons URL prefix. E.g. https://jr-grenoble.github.io/addon-assets/icons/actionￚsyncￚdisabled.png ⇒ <img src="./icons/actionￚsyncￚdisabled.png" width="14" height="14">.
 
-State icons are always displayed using the BORDERLESS text button style.
+State icons are always displayed using the `BORDERLESS` text button style.
 
-Action icons that open a new card or a new tab or overlay window are displayed using the FILLED_TONAL style.
+Action icons that open a new card or a new tab or overlay window are displayed using the `FILLED_TONAL` style.
 
-Action icons that simply toggle a state or do not create a new UI element are displayed using the OUTLINED style.
+Action icons that simply toggle a state or do not create a new UI element are displayed using the `OUTLINED` style.
 
 Drive item icons are pure images and do not require a style.

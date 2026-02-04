@@ -1,0 +1,8 @@
+{
+    "fontFamily": "JetBrains Mono",
+    "fontLigatures": true,
+    "unicodeHighlight": {
+        "ambiguousCharacters": false,
+        "nonBasicASCII": false
+    }
+}
