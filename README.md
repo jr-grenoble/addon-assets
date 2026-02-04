@@ -26,11 +26,19 @@ To make this repo public and able to serve images, I followed these steps:
 2. Click the Settings tab (gear icon).
 3. Scroll all the way down to the "Danger Zone".
 4. Click Change repository visibility.
-5. Select Make public and confirm
-6. On the left sidebar, click Pages.
-7. Under Build and deployment > Source, select Deploy from a branch.
-8. Under Branch, select main (or master) and / (root).
-9. Click Save.
+5. Select Make public and confirm.
+
+Then there's a choice to serve directly from github or from a the jsdelivr cdn:
+
+* from github:
+    1. On the left sidebar, click Pages.
+    2. Under Build and deployment > Source, select Deploy from a branch.
+    3. Under Branch, select main (or master) and / (root).
+    4. Click Save.
+
+* from jsdelivr (more efficient):
+    1. just use the https://cdn.jsdelivr.net/gh/{user}/{repo}/{file} pattern
+    2. and possibly suffix the {repo} to lock to a specific version; for instanc: https://cdn.jsdelivr.net/gh/jr-grenoble/addon-assets@master/icons/actionￚopenￚtrash.png
 
 State icons are always displayed using the `BORDERLESS` text button style.
 
